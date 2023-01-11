@@ -2,8 +2,7 @@
 <img align='right' src="https://raw.githubusercontent.com/0rdnave/0rdnave/main/Code%20typing.gif" width="230">
 
 <!--<a href="https://storyset.com/work">Work illustrations by Storyset</a>-->
-<p><em>Estudante de Análise e Desenvolvimento de Sistemas pela <a href="http://www.fateclins.edu.br">FATEC Lins</a>
-</br>Estagiario na  <a href="https://www.groovetech.com.br/">GrooveTech </a><img src="https://raw.githubusercontent.com/0rdnave/0rdnave/main/programming-crazy.gif" width="40"> 
+</br>Desenvolvedor Front-End na <a href="https://www.yandeh.com.br">Yandeh </a><img src="https://raw.githubusercontent.com/0rdnave/0rdnave/main/programming-crazy.gif" width="40"> 
 </em></p>
 
 ### Experiencia 
