@@ -9,7 +9,7 @@
 ### Experiencia 
 <p>Em fase de aprendizado</p>
 
-[![Linkedin: the.custon](https://img.shields.io/badge/-the.custon-ae4ee6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/the.custon/)](https://www.linkedin.com/in/evandr0/)
+[![Instagram: the.custon](https://img.shields.io/badge/-the.custon-ae4ee6?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/the.custon/)](https://www.instagram.com/the.custon)
 [![Linkedin: evandr0](https://img.shields.io/badge/-evandr0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandr0/)](https://www.linkedin.com/in/evandr0/)
 [![GitHub 0rdnave](https://img.shields.io/github/followers/0rdnave?label=follow&style=social)](https://github.com/0rdnave)
 
