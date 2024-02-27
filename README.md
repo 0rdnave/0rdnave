@@ -27,14 +27,3 @@ const evandr0 = {
   }  
 }
 ```
-
----
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=0rdnave.visitor-badge)
