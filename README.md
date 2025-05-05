@@ -22,8 +22,8 @@ const evandr0 = {
   askMeAbout: ['web dev', 'tech', 'anime', 'game', 'geekThings' ], 
   technologies: {
     code: [ 'Javascript', 'Typescript', 'HTML', 'CSS', 'C', 'Java' ],
-    tools: [ 'React', 'Redux', "RxJS", 'Node', 'Styled-Components', 'Jest', 'Material-UI' ],
-    architecture: [ 'event-driven', 'functional-programming', 'design-systemPattern' ]
+    tools: [ 'React', 'Next.JS', 'Redux', "RxJS", 'Node', 'Styled-Components', 'Jest', 'Material-UI', 'Chakra', Tailwind ],
+    architecture: [ 'event-driven', 'functional-programming', 'design-systemPattern', 'atomic' ]
   }  
 }
 ```
